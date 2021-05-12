@@ -3,7 +3,7 @@
 
 ## Lab0304
 ### Tutorial
-#### Install
+#### Installation
 - **Windows** <br>
     https://git-scm.com/downloads
 - **Mac OS** <br>
@@ -15,6 +15,7 @@
 - `git status`
 - `git commit -m "<your_commit>"`
 - `git push <remote_name> <branch_name>`
+- `git log`
 
 ## Lab0408
 ### Tutorial
