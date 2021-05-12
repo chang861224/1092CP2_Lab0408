@@ -13,5 +13,5 @@
 #### Commands
 - `git clone`
 - `git status`
-- `git commit -m "<your_commit>"
+- `git commit -m "<your_commit>"`
 - `git push <remote_name> <branch_name>`
