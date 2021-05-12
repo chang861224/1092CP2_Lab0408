@@ -4,11 +4,11 @@
 ## Lab0304
 ### Tutorial
 #### Install
-- **Windows**
+- **Windows** <br>
     https://git-scm.com/downloads
-- **Mac OS**
+- **Mac OS** <br>
     `brew  install git`
-- **Linux (Ubuntu)**
+- **Linux (Ubuntu)** <br>
     `apt-get install git`
 #### Commands
 - `git clone`
